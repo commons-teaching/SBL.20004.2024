@@ -42,11 +42,11 @@ Those software were used :
 After filtering with MzMine, the amount of features could be reduced to 4436.  The feature list can be found [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/results/mzmine/mapp_batch_00109_quant.csv).
 
 ### Statistical analyses
-Statistical analyses were performed by the supervisor. On figure 2 you can find a heatmap of the different feature present in the plant samples. You can clearly see that the componds produced by the control plants (pink) are different that from the directy treated plants (red). The indirecty treated plants show similar pattern as the control for circa half of the componds, and similar to the directly treated for the second half. 
+Statistical analyses were performed by the supervisor. On figure 2 you can find a heatmap of the significant features present in the plant samples. You can clearly see that the componds produced by the control plants (pink) are different that from the directy treated plants (red). The indirecty treated plants show similar pattern as the control for circa half of the componds, and similar to the directly treated for the second half. 
 
 ![heatmap](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/heatmap.png)
 ![heatmap legend](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/heatmap_legend.png)
-> Heatmap of the features present in the plant samples.
+> Heatmap of the significant features present in the plant samples.
 
 
 ### Molecular Network
