@@ -48,24 +48,28 @@ Statistical analyses were performed by the supervisor. On figure 1 you can find 
 ![heatmap legend](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/heatmap_legend.png)
 > Figure 1: Heatmap of the significant features present in the plant samples.
 
+Figure 2 is a treemap chart of the class of compond that was identified. In yellow are the feature that are found more in the treated plants, and in gray the ones that are more present in the controls
+![treemap](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/treemap.png)
+> Figure 2: A treemap of the metabolomic variation of _Biscutella laevigata_ whith and without herbivory.
+
 
 ### Molecular Network
-Figure 2 show the molecular network of our features. Each node is represented by a pie chart, whose size is proportionate to the peak area of the feature. The colors indicate from witch samples the feature come, blue being control plant, pink distant treatment on plant, red direct treatment on plant, orange control larvae and yellow treatment larvae.
+Figure 3 show the molecular network of our features. Each node is represented by a pie chart, whose size is proportionate to the peak area of the feature. The colors indicate from witch samples the feature come, blue being control plant, pink distant treatment on plant, red direct treatment on plant, orange control larvae and yellow treatment larvae.
 ![molecular network](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/molecular_network.png)
-> Figure 2: a picture of the molecular network. Blue = plant control, purple = plant distant treatment, red = plant direct treatment, orange = herbivor control, yellow = herbivor treatment
+> Figure 3: a picture of the molecular network. Blue = plant control, purple = plant distant treatment, red = plant direct treatment, orange = herbivor control, yellow = herbivor treatment
 #### Examples of compounds of interest
 On the molocular network, we can find some promising compounds, that seem to be produced in higher amount in the plant under herbivory attack than in the control plant. Many of these are alkaloids and compounds containing sulfur, known for their role in defending plants against herbivores. 
-Figure 3 show an isothiocyanate. Isothiocyanates are often product of metabolic conversion of glucosinolates. It suggest a compond involved in plant defense.
+Figure 4 show an isothiocyanate. Isothiocyanates are often product of metabolic conversion of glucosinolates. It suggest a compond involved in plant defense.
 ![577](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/577.png)
-> Figure 3: Feature n°577, an isothiocyanate
+> Figure 4: Feature n°577, an isothiocyanate
 
-On figure 4, you can appreciate the molecular network of an alkaloid. Alcaloids are among the most important metabolites in the defense of plants against their natural enemies.
+On figure 5, you can appreciate the molecular network of an alkaloid. Alcaloids are among the most important metabolites in the defense of plants against their natural enemies.
 ![1774](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/1774.png)
-> Figure 3: feature 1774, an alcaloid
+> Figure 5: feature 1774, an alcaloid
 
-On figure 5, you can find a sulfoxide, a sulfure containing compond.
+On figure 6, you can find a sulfoxide, a sulfure containing compond.
 ![383](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/383.png)
-> Figure 4: feature 383, a sulfoxyde.
+> Figure 6: feature 383, a sulfoxyde.
 
 
 
