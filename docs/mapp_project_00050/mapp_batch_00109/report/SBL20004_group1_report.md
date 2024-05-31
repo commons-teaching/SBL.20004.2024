@@ -23,7 +23,7 @@ The treatment consisted of approximately 20 larvae put on one leaf for 24 hours.
 One leaf was collected per control plant. On the treated plants, the leaf that received the herbivores were collected, as well as an other leaf on the same plant for the 'distant treatment'. The larvae that fed on the leaves were also collected for analysis, as well as larvae that didn't came in contact with the plants as control.
 After collection, each sample was immediately frozen in liquid nitrogen in order to stop any metabolic reaction.
 
-•	[Here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/observations-440472.csv) you can find the link to the iNaturalist entries of the species.
+[Here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/observations-440472.csv) you can find the link to the iNaturalist entries of the species.
 ### Sample preparation
 
 Each sample were dry and then weighted, and put in centrifuge tubes. To extract metabolites, 1700µl of a solution containing 80% of methanol, 20% of H2O and 0.1% of formic acid  were added. Tubes were put in Mixer Mill, disrupt the tissues. Then, the samples were prepared for the MS. In addition to the prepared samples, we also mixed the plants into a new sample, and a second one containing the plants and the herbivores, as quality controls.
@@ -42,17 +42,31 @@ Those software were used :
 After filtering with MzMine, the amount of features could be reduced to 4436.  The feature list can be found [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/results/mzmine/mapp_batch_00109_quant.csv).
 
 ### Statistical analyses
-Statistical analyses were performed by the supervisor. On figure 2 you can find a heatmap of the significant features present in the plant samples. You can clearly see that the componds produced by the control plants (pink) are different that from the directy treated plants (red). The indirecty treated plants show similar pattern as the control for circa half of the componds, and similar to the directly treated for the second half. 
+Statistical analyses were performed by the supervisor. On figure 1 you can find a heatmap of the significant features present in the plant samples. You can clearly see that the componds produced by the control plants (pink) are different that from the directy treated plants (red). The indirecty treated plants show similar pattern as the control for circa half of the componds, and similar to the directly treated for the second half. 
 
 ![heatmap](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/heatmap.png)
 ![heatmap legend](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/heatmap_legend.png)
-> Heatmap of the significant features present in the plant samples.
+> Figure 1: Heatmap of the significant features present in the plant samples.
 
 
 ### Molecular Network
-Figure XXX show the molecular network of our features. Each node is represented by a pie chart, whose size is proportionate to the peak area of the feature. The colors indicate from witch samples the feature come, blue being control plant, pink distant treatment on plant, red direct treatment on plant, orange control larvae and yellow treatment larvae.
+Figure 2 show the molecular network of our features. Each node is represented by a pie chart, whose size is proportionate to the peak area of the feature. The colors indicate from witch samples the feature come, blue being control plant, pink distant treatment on plant, red direct treatment on plant, orange control larvae and yellow treatment larvae.
 ![molecular network](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/molecular_network.png)
-> Figure XXX: a picture of the molecular network. Blue = plant control, purple = plant distant treatment, red = plant direct treatment, orange = herbivor control, yellow = herbivor treatment
+> Figure 2: a picture of the molecular network. Blue = plant control, purple = plant distant treatment, red = plant direct treatment, orange = herbivor control, yellow = herbivor treatment
+#### Examples of compounds of interest
+On the molocular network, we can find some promising compounds, that seem to be produced in higher amount in the plant under herbivory attack than in the control plant. Many of these are alkaloids and compounds containing sulfur, known for their role in defending plants against herbivores. 
+Figure 3 show an isothiocyanate. Isothiocyanates are often product of metabolic conversion of glucosinolates. It suggest a compond involved in plant defense.
+![577](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/577.png)
+> Figure 3: Feature n°577, an isothiocyanate
+
+On figure 4, you can appreciate the molecular network of an alkaloid. Alcaloids are among the most important metabolites in the defense of plants against their natural enemies.
+![1774](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/1774.png)
+> Figure 3: feature 1774, an alcaloid
+
+On figure 5, you can find a sulfoxide, a sulfure containing compond.
+![383](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/383.png)
+> Figure 4: feature 383, a sulfoxyde.
+
 
 
 ## Conclusion
