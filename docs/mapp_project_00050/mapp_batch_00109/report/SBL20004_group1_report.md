@@ -70,4 +70,10 @@ On figure 5, you can find a sulfoxide, a sulfure containing compond.
 
 
 ## Conclusion
-Some conclusion that you could get out of this preliminary study.
+Despite the gigantic amount of data produced by the LCMS method, some limitations persist, making it difficult to interpret the results.
+
+Firstly, no feature was at the same time statistically significant and making sense on the molecular network. For example there should be a significant difference in the control and treated plant and being absent from the blank or the herbivore. Feature that are isolated and not taking part in a network are also suspicious. To solve this problem, a larger number of replicates would have been needed, in order to see statistically more robust results.
+
+Secondly, most of the feature could not be identified precisely. And even when we were able to obtain a molecule name, there was almost no literature about it, at least in plant biology. It is therefore impossible to provide an interpretation without literature to refer to.
+
+However, since the aim of this project was to highlight a change in the Biscutella metabolome in response to herbivory, we can consider that this goal has been achieved. 
