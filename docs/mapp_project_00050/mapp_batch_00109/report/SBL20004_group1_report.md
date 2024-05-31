@@ -26,7 +26,7 @@ After collection, each sample was immediately frozen in liquid nitrogen in order
 [Here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/observations-440472.csv) you can find the link to the iNaturalist entries of the species.
 ### Sample preparation
 
-Each sample were dry and then weighted, and put in centrifuge tubes. To extract metabolites, 1700µl of a solution containing 80% of methanol, 20% of H2O and 0.1% of formic acid  were added. Tubes were put in Mixer Mill, disrupt the tissues. Then, the samples were prepared for the MS. In addition to the prepared samples, we also mixed the plants into a new sample tube, and a second one containing the plants and the herbivores, as quality controls.
+Each sample were dry and then weighted, and put in centrifuge tubes. To extract metabolites, 1700µl of a solution containing 80% of methanol, 20% of H2O and 0.1% of formic acid  were added. Tubes were put in Mixer Mill, to disrupt the tissues. Then, the samples were prepared for the MS. In addition to the prepared samples, we also mixed the plants into a new sample tube, and a second one containing the plants and the herbivores, as quality controls.
 ### LCMS Analysis
 The LC conditions were describe [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/lc_conditions.txt) and the MS conditions [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/ms_conditions.txt).
 
