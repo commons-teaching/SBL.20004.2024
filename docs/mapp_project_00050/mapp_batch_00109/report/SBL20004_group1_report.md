@@ -26,7 +26,7 @@ After collection, each sample was immediately frozen in liquid nitrogen in order
 [Here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/observations-440472.csv) you can find the link to the iNaturalist entries of the species.
 ### Sample preparation
 
-Each sample were dry and then weighted, and put in centrifuge tubes. To extract metabolites, 1700µl of a solution containing 80% of methanol, 20% of H2O and 0.1% of formic acid  were added. Tubes were put in Mixer Mill, disrupt the tissues. Then, the samples were prepared for the MS. In addition to the prepared samples, we also mixed the plants into a new sample, and a second one containing the plants and the herbivores, as quality controls.
+Each sample were dry and then weighted, and put in centrifuge tubes. To extract metabolites, 1700µl of a solution containing 80% of methanol, 20% of H2O and 0.1% of formic acid  were added. Tubes were put in Mixer Mill, disrupt the tissues. Then, the samples were prepared for the MS. In addition to the prepared samples, we also mixed the plants into a new sample tube, and a second one containing the plants and the herbivores, as quality controls.
 ### LCMS Analysis
 The LC conditions were describe [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/lc_conditions.txt) and the MS conditions [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/ms_conditions.txt).
 
@@ -42,11 +42,11 @@ Those software were used :
 After filtering with MzMine, the amount of features could be reduced to 4436.  The feature list can be found [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/results/mzmine/mapp_batch_00109_quant.csv).
 
 ### Statistical analyses
-Statistical analyses were performed by the supervisor. On figure 1 you can find a heatmap of the significant features present in the plant samples. You can clearly see that the componds produced by the control plants (pink) are different that from the directy treated plants (red). The indirecty treated plants show similar pattern as the control for circa half of the componds, and similar to the directly treated for the second half. 
+Statistical analyses were performed by the supervisor. On figure 1 you can find a heatmap of the significant features present in the plant samples. You can clearly see that the componds produced by the control plants (pink) are different that from the directy treated plants (red). The indirecty treated plants (yellow) show similar pattern as the control for circa half of the componds, and similar to the directly treated for the second half. 
 
 ![heatmap](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/heatmap.png)
 ![heatmap legend](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/heatmap_legend.png)
-> Figure 1: Heatmap of the significant features present in the plant samples.
+> Figure 1: Heatmap of the significant features present in the plant samples. Red = direct treatment, yellow = indirect treatment, pink = control.
 
 Figure 2 is a treemap chart of the class of compond that was identified. In yellow are the feature that are found more in the treated plants, and in gray the ones that are more present in the controls
 ![treemap](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/treemap.png)
@@ -61,11 +61,11 @@ Figure 3 show the molecular network of our features. Each node is represented by
 On the molocular network, we can find some promising compounds, that seem to be produced in higher amount in the plant under herbivory attack than in the control plant. Many of these are alkaloids and compounds containing sulfur, known for their role in defending plants against herbivores. 
 Figure 4 show an isothiocyanate. Isothiocyanates are often product of metabolic conversion of glucosinolates. It suggest a compond involved in plant defense.
 ![577](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/577.png)
-> Figure 4: Feature n°577, an isothiocyanate
+> Figure 4: Feature n°577, an isothiocyanate.
 
 On figure 5, you can appreciate the molecular network of an alkaloid. Alcaloids are among the most important metabolites in the defense of plants against their natural enemies.
 ![1774](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/1774.png)
-> Figure 5: feature 1774, an alcaloid
+> Figure 5: feature 1774, an alcaloid.
 
 On figure 6, you can find a sulfoxide, a sulfure containing compond.
 ![383](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/report/pictures/383.png)
